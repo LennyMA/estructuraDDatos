@@ -2,6 +2,7 @@ def busquedaBinaria(lista, elemento):
     if len(lista) == 0:
         return False
     else:
+        lista.sort()
         puntoMedio = len(lista) // 2
 
         if lista[puntoMedio] == elemento:
@@ -12,6 +13,6 @@ def busquedaBinaria(lista, elemento):
             return busquedaBinaria(lista[puntoMedio + 1 :], elemento)
 
 
-lista = [1, 2, 3, 4, 54, 65, 76, 86, 97, 100]
-print(busquedaBinaria(lista, 1))
-print(busquedaBinaria(lista, 445))
+lista = [1, 2, 3, 445, 6, 25, 74, 28, 35, 13]
+print(busquedaBinaria(lista, 35))
+print(busquedaBinaria(lista, 411))
