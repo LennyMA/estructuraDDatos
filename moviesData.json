@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "nombre": "Tenet",
+    "genero": "Action"
+  },
+  {
+    "id": "2",
+    "nombre": "Soul",
+    "genero": "Animation"
+  },
+  {
+    "id": "3",
+    "nombre": "The Invisible Man",
+    "genero": "Horror"
+  },
+  {
+    "id": "4",
+    "nombre": "Mulan",
+    "genero": "Adventure"
+  },
+  {
+    "id": "5",
+    "nombre": "Birds of Prey",
+    "genero": "Action"
+  },
+  {
+    "id": "6",
+    "nombre": "The Gentlemen",
+    "genero": "Action"
+  },
+  {
+    "id": "7",
+    "nombre": "The Old Guard",
+    "genero": "Action"
+  },
+  {
+    "id": "8",
+    "nombre": "Bad Boys for Life",
+    "genero": "Action"
+  },
+  {
+    "id": "9",
+    "nombre": "The Platform",
+    "genero": "Horror"
+  },
+  {
+    "id": "10",
+    "nombre": "Joker",
+    "genero": "Crime"
+  },
+  {
+    "id": "11",
+    "nombre": "1917",
+    "genero": "Drama"
+  },
+  {
+    "id": "12",
+    "nombre": "Parasite",
+    "genero": "Comedy"
+  },
+  {
+    "id": "13",
+    "nombre": "Onward",
+    "genero": "Animation"
+  },
+  {
+    "id": "14",
+    "nombre": "Knives Out",
+    "genero": "Crime"
+  },
+  {
+    "id": "15",
+    "nombre": "The Call of the Wild",
+    "genero": "Adventure"
+  },
+  {
+    "id": "16",
+    "nombre": "The Trial of the Chicago 7",
+    "genero": "Drama"
+  },
+  {
+    "id": "17",
+    "nombre": "Sonic the Hedgehog",
+    "genero": "Action"
+  },
+  {
+    "id": "18",
+    "nombre": "The King of Staten Island",
+    "genero": "Comedy"
+  },
+  {
+    "id": "19",
+    "nombre": "Extraction",
+    "genero": "Action"
+  },
+  {
+    "id": "20",
+    "nombre": "Enola Holmes",
+    "genero": "Mystery"
+  }
+]
